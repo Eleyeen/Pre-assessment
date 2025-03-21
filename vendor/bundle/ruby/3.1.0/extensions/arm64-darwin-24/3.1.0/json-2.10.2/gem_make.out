@@ -1,0 +1,19 @@
+current directory: /Users/mac/PreAssessmentTest/vendor/bundle/ruby/3.1.0/gems/json-2.10.2/ext/json/ext/generator
+/Users/mac/.rvm/rubies/ruby-3.1.0/bin/ruby -I /Users/mac/.rvm/rubies/ruby-3.1.0/lib/ruby/3.1.0 -r ./siteconf20250321-7830-z17bdb.rb extconf.rb
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/mac/PreAssessmentTest/vendor/bundle/ruby/3.1.0/gems/json-2.10.2/ext/json/ext/generator
+make DESTDIR\= clean
+
+current directory: /Users/mac/PreAssessmentTest/vendor/bundle/ruby/3.1.0/gems/json-2.10.2/ext/json/ext/generator
+make DESTDIR\=
+compiling generator.c
+linking shared-object json/ext/generator.bundle
+
+current directory: /Users/mac/PreAssessmentTest/vendor/bundle/ruby/3.1.0/gems/json-2.10.2/ext/json/ext/generator
+make DESTDIR\= install
+make: /opt/homebrew/opt/coreutils/bin/gmkdir: No such file or directory
+make: *** [.sitearchdir.-.json.-.ext.time] Error 1
+
+make install failed, exit code 2

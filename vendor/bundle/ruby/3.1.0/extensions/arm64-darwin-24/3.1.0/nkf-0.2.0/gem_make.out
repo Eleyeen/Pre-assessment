@@ -1,0 +1,18 @@
+current directory: /Users/mac/PreAssessmentTest/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+/Users/mac/.rvm/rubies/ruby-3.1.0/bin/ruby -I /Users/mac/.rvm/rubies/ruby-3.1.0/lib/ruby/3.1.0 -r ./siteconf20250321-7830-igzp97.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mac/PreAssessmentTest/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= clean
+
+current directory: /Users/mac/PreAssessmentTest/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\=
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/mac/PreAssessmentTest/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= install
+make: /opt/homebrew/opt/coreutils/bin/gmkdir: No such file or directory
+make: *** [.sitearchdir.time] Error 1
+
+make install failed, exit code 2
