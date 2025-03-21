@@ -69,11 +69,17 @@ You've successfully run and modified your React Native App. :partying_face:
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
 # Learn More
+![aa12](https://github.com/user-attachments/assets/addeeb52-2ffd-4bfb-b249-c5d71189ce1a)
+![aa11](https://github.com/user-attachments/assets/b331bfd6-fdde-4d33-b94e-1a4e72a457d4)
+![aa13](https://github.com/user-attachments/assets/a4792275-ff7b-4a68-b99b-9fa02cb92199)
 
 To learn more about React Native, take a look at the following resources:
+
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
